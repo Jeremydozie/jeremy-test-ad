@@ -1,0 +1,12 @@
+Report for each top-level folder:
+Folder: Sex Education, Files: 2, Folders: 0
+Folder: Is It Cake?, Files: 0, Folders: 0
+Folder: Squid Game, Files: 0, Folders: 0
+Folder: Destined with You, Files: 0, Folders: 0
+Folder: King the Land, Files: 7, Folders: 16
+Folder: Song of the Bandits, Files: 0, Folders: 0
+Folder: Stranger Things, Files: 0, Folders: 0
+Folder: Wednesday, Files: 0, Folders: 0
+Folder: Virgin River, Files: 1, Folders: 0
+Folder: One Piece, Files: 8, Folders: 15
+Total nested folders in the source folder: 41
